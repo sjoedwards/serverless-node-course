@@ -1,0 +1,19 @@
+{
+  "name": "serverless-node-course",
+  "version": "1.0.0",
+  "description": "[Link](https://www.udemy.com/share/1032AqBkYcdl1UTA==/)",
+  "main": ".eslintrc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "eslint": "^7.16.0",
+    "eslint-config-prettier": "^7.1.0",
+    "eslint-plugin-prettier": "^3.3.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "prettier": "^2.2.1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
